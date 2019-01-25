@@ -1,7 +1,19 @@
+h1 {
+    font-family: Anton;
+}
+
+h2 {
+    font-family: Montserrat;
+}
+
+p {
+    font-family: Montserrat;
+}
+
 .btn {
     display: inline-block;
     text-decoration: none;
-    font-family: Arial, sans-serif;
+    font-family: Anton;
     text-align: center;
     font-size: 16px;
     line-height: 1.42857143;
