@@ -28,7 +28,10 @@ img {
 .menu {
     text-align: center;
 }
-
+.icon {
+    width :20 pc;
+    height :20 pc;
+}
 .btn {
     display: inline-block;
     text-decoration: none;
