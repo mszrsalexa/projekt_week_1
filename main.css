@@ -47,13 +47,13 @@ h3 {
     white-space: nowrap;
     vertical-align: middle;
     color: #000;
-    background-color: #3351FF;
-    border-color: #000;
+    background-color: #7886D5;
+    border-color: #364ED5;
     border-radius: 15%;
   }
   
   .btn:hover {
-    background-color: #000;
+    background-color: #4B5ECB;
     color: #fff;
     transition: background-color .15s ease-in-out;
   }
