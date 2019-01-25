@@ -39,6 +39,7 @@ h1, h2, h3 {
     transition: all 0.5s ease-in-out;
     border: 1px solid #fff;
     padding: 3px;
+    margin: 6px;
 }
   
 .profile-image:hover {
