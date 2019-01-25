@@ -19,8 +19,7 @@ h3 {
 }
 
 .hatter {
-    background-color: #000;
-    opacity: .4;
+    background-color: rgba(0, 0, 0, 0.46);
 }
 .photos {
     width: 400px;
