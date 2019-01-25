@@ -49,6 +49,7 @@ h3 {
     color: #000;
     background-color: #333;
     border-color: #000;
+    border-radius: 15%;
   }
   
   .btn:hover {
