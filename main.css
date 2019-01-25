@@ -22,7 +22,9 @@ h3 {
     width: 400px;
     height: auto;
     border-radius: 50%;
-    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .menu {
