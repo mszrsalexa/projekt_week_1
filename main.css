@@ -17,8 +17,10 @@ h2 {
 h3 {
     text-align: center;
 }
+
 .hatter {
-    background-color: rgba(0,0,0,0.46);
+    background-color: #000;
+    opacity: .4;
 }
 .photos {
     width: 400px;
