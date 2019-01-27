@@ -49,6 +49,7 @@ body {
 
 .clay {
   text-align: center;
+  padding-top: 10px;
 }
 
 .pottery {
@@ -69,7 +70,7 @@ body {
 }
   
 .content {
-    padding: 3% 5%;
+    padding: 10px 5%;
 }
   
 body {
@@ -78,7 +79,7 @@ body {
 }
   
 .profile-card {
-    background-color: hsla(0, 0%, 100%, .5);
+    background-color: rgba(255, 255, 255, 0.63);
     border-radius: 4px;
     box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
 }
