@@ -15,18 +15,15 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'Montserrat';
-  }
-  
-body {
     height: 100vh;
-}
+  }
   
 .head, .links {
     text-align: center;
 }
   
 .head, .content {
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
 }
   
@@ -50,11 +47,13 @@ body {
     filter: grayscale(20%);
 }
 
+.clay {
+  text-align: center;
+}
+
 .pottery {
-  height: 155px;
+  height: 140px;
   width: auto;
-  margin-left: auto;
-  margin-right: auto;
   border: 1px solid rgb(0, 0, 0);
   padding: 5px;
   filter: grayscale(80%);
@@ -70,7 +69,7 @@ body {
 }
   
 .content {
-    padding: 5% 11%;
+    padding: 3% 5%;
 }
   
 body {
