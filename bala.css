@@ -37,7 +37,7 @@ h1 {
 #greetings{
     padding-top: 0.01pc;
     padding-right: 1%;
-    padding-bottom: 0%;
+    padding-bottom: 0.5%;
     padding-left: 1%;
     background-color: white
 }
@@ -57,7 +57,3 @@ h1 {
 .hobby_list{
     display:inline-block;
         }
-
-.profkep{
- 
-}
