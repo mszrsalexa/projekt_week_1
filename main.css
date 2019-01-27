@@ -13,6 +13,7 @@ h1, h2, h3 {
 
 .hatter {
     background-color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.589) 10px 10px 80px;
 }
 .photos {
     width: 400px;
