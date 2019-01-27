@@ -6,6 +6,11 @@ body {
     align-items: center;
 }
 
+#intro {
+    text-align: center;
+    margin-left: 22em;
+    margin-right: 22em;
+}
 .hr {
     border-color: gray;
     margin-block-start: 0em;
@@ -21,11 +26,12 @@ p {
 h1 {
     color: rgb(8, 8, 8);
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-
+    text-align: center;
 }
 
 .Fenykep{
     height: 300px;
+    text-align: center;
 }
 
 #greetings{
@@ -34,4 +40,24 @@ h1 {
     padding-bottom: 0%;
     padding-left: 1%;
     background-color: white
+}
+
+.profile-image {
+    width :80px;
+    height :80px;
+    border-radius: 50%;
+    filter: grayscale(100%);
+    transition: all 0.5s ease-in-out;
+    border: 1px solid #fff;
+    padding: 3px;
+    margin: 6px;
+    text-align: center;
+}
+
+.hobby_list{
+    display:inline-block;
+        }
+
+.profkep{
+ 
 }
